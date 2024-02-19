@@ -1,7 +1,4 @@
-
-<p align="right">
-  <img style="max-width: 100%; height: auto;" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/tenor.gif" alt="Animated GIF">
-</p>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
 <h3 align="center">
