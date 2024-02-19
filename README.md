@@ -1,5 +1,8 @@
 
-<img width="250" align="right" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/tenor.gif">
+<p align="right">
+  <img style="max-width: 100%; height: auto;" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/tenor.gif" alt="Animated GIF">
+</p>
+
 
 <h3 align="center">
   Welcome to Moaaz Mhamoud's profile!
