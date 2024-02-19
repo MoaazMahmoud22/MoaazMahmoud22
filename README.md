@@ -1,12 +1,10 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 
 <h3 align="center">
   Welcome to Moaaz Mhamoud's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-
+<br>
 
 - 👨‍💻 Computer Science Level 3 Student | Software Engineer | Data Science Enthusiast
 - 📚 Currently studying computer science at level 3.
@@ -35,7 +33,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=MoaazMahmoud22&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MoaazMahmoud22&style=for-the-badge">
