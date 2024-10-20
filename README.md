@@ -6,8 +6,7 @@
 
 <br>
 
-- 👨‍💻 Computer Science Level 3 Student | Software Engineer | Data Science Enthusiast
-- 📚 Currently studying computer science at level 3.
+- 👨‍💻 Computer Science Department graduate | Software Engineer | Data Science Enthusiast
 - 👨‍💻 Software Engineer and enthusiastic about Data Science and Machine Learning.
 - 💬 Ask me about my experience with SQL, PHP,C++,python , Machine Learning and Fundamental of data analytics, or anything related to Data Scince.
 
